@@ -1,0 +1,15 @@
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\bin\Debug\Hashtable_85.exe.config
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\bin\Debug\Hashtable_85.exe
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\bin\Debug\Hashtable_85.pdb
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85.csprojAssemblyReference.cache
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\MainWindow.g.cs
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\App.g.cs
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85_MarkupCompile.cache
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85_MarkupCompile.lref
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\MainWindow.baml
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85.g.resources
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85.Properties.Resources.resources
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85.csproj.GenerateResource.cache
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85.csproj.CoreCompileInputs.cache
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85.exe
+C:\Users\dellb\source\repos\Hashtable_85\Hashtable_85\obj\Debug\Hashtable_85.pdb
